@@ -1,4 +1,4 @@
-Assignment 3
+Volume Rendering and Neural Radiance Fields
 ===================================
 
 ##  0. Setup
