@@ -1,5 +1,6 @@
 Volume Rendering and Neural Radiance Fields
 ===================================
+This is an implementation of the homework from Learning for 3D at CMU.
 
 ##  0. Setup
 
